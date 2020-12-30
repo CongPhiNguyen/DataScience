@@ -1,0 +1,11 @@
+C:\Users\HELLO\Desktop\Manga Statistic\Manga Statistic\bin\Debug\Manga Statistic.exe.config
+C:\Users\HELLO\Desktop\Manga Statistic\Manga Statistic\bin\Debug\Manga Statistic.exe
+C:\Users\HELLO\Desktop\Manga Statistic\Manga Statistic\bin\Debug\Manga Statistic.pdb
+C:\Users\HELLO\Desktop\Manga Statistic\Manga Statistic\obj\Debug\Manga Statistic.csprojAssemblyReference.cache
+C:\Users\HELLO\Desktop\Manga Statistic\Manga Statistic\obj\Debug\Manga_Statistic.Properties.Resources.resources
+C:\Users\HELLO\Desktop\Manga Statistic\Manga Statistic\obj\Debug\Manga_Statistic.WebTest.resources
+C:\Users\HELLO\Desktop\Manga Statistic\Manga Statistic\obj\Debug\Manga Statistic.csproj.GenerateResource.cache
+C:\Users\HELLO\Desktop\Manga Statistic\Manga Statistic\obj\Debug\Manga Statistic.csproj.CoreCompileInputs.cache
+C:\Users\HELLO\Desktop\Manga Statistic\Manga Statistic\obj\Debug\Manga Statistic.exe
+C:\Users\HELLO\Desktop\Manga Statistic\Manga Statistic\obj\Debug\Manga Statistic.pdb
+C:\Users\HELLO\Desktop\Manga Statistic\Manga Statistic\obj\Debug\Manga_Statistic.MangaList.resources

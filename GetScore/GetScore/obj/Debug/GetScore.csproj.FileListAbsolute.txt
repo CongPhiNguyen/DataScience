@@ -1,0 +1,10 @@
+C:\Users\HELLO\Desktop\GetScore\GetScore\obj\Debug\GetScore.csprojAssemblyReference.cache
+C:\Users\HELLO\Desktop\GetScore\GetScore\obj\Debug\GetScore.getScore.resources
+C:\Users\HELLO\Desktop\GetScore\GetScore\obj\Debug\GetScore.Properties.Resources.resources
+C:\Users\HELLO\Desktop\GetScore\GetScore\obj\Debug\GetScore.csproj.GenerateResource.cache
+C:\Users\HELLO\Desktop\GetScore\GetScore\obj\Debug\GetScore.csproj.CoreCompileInputs.cache
+C:\Users\HELLO\Desktop\GetScore\GetScore\bin\Debug\GetScore.exe.config
+C:\Users\HELLO\Desktop\GetScore\GetScore\bin\Debug\GetScore.exe
+C:\Users\HELLO\Desktop\GetScore\GetScore\bin\Debug\GetScore.pdb
+C:\Users\HELLO\Desktop\GetScore\GetScore\obj\Debug\GetScore.exe
+C:\Users\HELLO\Desktop\GetScore\GetScore\obj\Debug\GetScore.pdb
